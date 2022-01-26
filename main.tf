@@ -15,7 +15,7 @@ terraform {
     organization = "JND-TF-Labs"
 
     workspaces {
-      name = "update-tfc-backend"
+      name = "lab-migrate-state"
     }
   }
 }
