@@ -20,7 +20,7 @@ terraform {
   }
 }
 
-# v2  
+# v3  
 provider "aws" {
   region = "us-east-1"
 }
